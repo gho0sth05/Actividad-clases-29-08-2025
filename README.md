@@ -24,7 +24,8 @@ Las ventajas principales que este ofrece es :
 - private: accesible solo dentro de la clase donde se define.
 - protected: accesible dentro de la clase y sus subclases (herencia).
 
-![alt text](image-1.png)
+<img width="921" height="707" alt="image" src="https://github.com/user-attachments/assets/16e6dc13-c067-4870-9625-abb4a5fa7052" />
+
 
 ## 4. ¿Qué es un ´ readonly ´ y para qué se usa?
 Es un modificador que indica que una propiedad solo puede ser asignada una vez, generalmente en la declaración o en el constructor y no puede ser modificada después. Se usa para proteger propiedades que deben ser inmutables después de la inicialización.
